@@ -15,6 +15,12 @@
 # Tech Stack 🛠️
 Frontend: Streamlit
 Backend: Python (using calendar module)
+# Sample
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/8ef8581d-135c-43e7-9277-902013f03a66">
+
+<img width="221" alt="image" src="https://github.com/user-attachments/assets/ed0d45d3-e1cb-4992-acf7-c037d1f865d3">
+
+
 
 # Conclusion 🏁
 - The Yearly Calendar Viewer is a handy tool for generating calendars on the fly. With its sleek design and user-friendly interface, it’s ideal for quick reference or integration into other projects. Future updates may include features like exporting the calendar as an image or PDF, adding events, and more.
